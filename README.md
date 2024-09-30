@@ -1,1 +1,1 @@
-# simple-html-page-2
+# this project is about simple page
